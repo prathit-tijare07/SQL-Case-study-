@@ -42,8 +42,11 @@ Notes	Additional information about the region
 From the dataset, I explored the following 20 questions utilizing MySQL:
 
 1.How many Olympic games have been held?
+
 2.List down all Olympic games held so far.
+
 3.Mention the total number of nations that participated in each Olympic game.
+
 4. Fetch the total no of sports played in each olympic games.
 5. Retrieve the top 10 countries with the most gold medals.
 6.List all athletes who have won more than five gold medals.
